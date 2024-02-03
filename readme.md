@@ -41,6 +41,7 @@ Read and analyze a client project brief to understand the client and business pr
    | interested  | 1549     |
 
 
+ffhbkf
 ## Project Report
 
 Developed a comprehensive [Project Report](https://github.com/SUMIT-JADHAV-23/Accenture-Data-Analytics-Assignment/blob/master/Project%20Report%20.pdf) presentation in PowerPoint that analyzes and reports on the client's content performance, offering valuable insights, and presenting actionable recommendations for optimization
