@@ -3,7 +3,7 @@
 - [Client Data Set](#client-data-set)
 - [Output of Program](#output-of-program)
 - [Project Reports](#project-report)
-- [Instruction](#instructions)
+- [Infomation](#information)
 
 
 ## Project Details
@@ -54,7 +54,7 @@ Read and analyze a client project brief to understand the client and business pr
 Developed a comprehensive [Project Report](https://github.com/SUMIT-JADHAV-23/Accenture-Data-Analytics-Assignment/blob/master/Project%20Report%20.pdf) presentation in PowerPoint that analyzes and reports on the client's content performance, offering valuable insights, and presenting actionable recommendations for optimization
 
 
-## Instructions
+## Information
 - In [Accenture Assignment](https://github.com/SUMIT-JADHAV-23/Accenture-Data-Analytics-Assignment), We have to focus on following steps :
   - Data Reading and Understanding:
     -  Read the provided data from the Excel file.
