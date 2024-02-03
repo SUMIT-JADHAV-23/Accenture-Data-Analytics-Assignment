@@ -1,7 +1,8 @@
 # README
+## Project Details
 Read and analyze a client project brief to understand the client and business problem, identify the requirements that need to be delivered, and identify which tasks we need to focus on as a data analyst
 
-### Data Set
+### Client Data Set
 - Content data
 - Reaction type Data
 - Reaction data 
@@ -20,7 +21,7 @@ Read and analyze a client project brief to understand the client and business pr
   - Score
 
 - ### Outputs
-  - Top 5 Categories
+  - **Top 5 Categories**
   
   |  Category      | Counts |
   |----------------|--------|
@@ -30,7 +31,7 @@ Read and analyze a client project brief to understand the client and business pr
   | Food           | 1699   |
   | Technology     | 1698   |
 
-  - Top 5 Reaction Type
+  - **Top 5 Reaction Type**
   
    | Reaction    | Counts   | 
    |-------------|----------|
@@ -41,7 +42,6 @@ Read and analyze a client project brief to understand the client and business pr
    | interested  | 1549     |
 
 
-ffhbkf
 ## Project Report
 
 Developed a comprehensive [Project Report](https://github.com/SUMIT-JADHAV-23/Accenture-Data-Analytics-Assignment/blob/master/Project%20Report%20.pdf) presentation in PowerPoint that analyzes and reports on the client's content performance, offering valuable insights, and presenting actionable recommendations for optimization
@@ -62,4 +62,4 @@ Developed a comprehensive [Project Report](https://github.com/SUMIT-JADHAV-23/Ac
   - Insights
     - Top 5 Categories
     - Top 5 Reaction
-  
+- You can see the Source Code [Here](https://github.com/SUMIT-JADHAV-23/Accenture-Data-Analytics-Assignment/blob/master/test.py)
